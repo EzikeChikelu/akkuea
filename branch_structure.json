@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "fix/1174-remove-hook-lint-suppressions",
+    "origin"
+  ],
+  "parent": {
+    "develop": null,
+    "fix/1174-remove-hook-lint-suppressions": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "fix/1174-remove-hook-lint-suppressions",
+    "origin"
+  ]
+}
